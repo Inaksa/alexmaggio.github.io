@@ -38,7 +38,7 @@
                 "company": "Blue Trail Software",
                 "location": "Buenos Aires, Argentina",
                 "startDate": "2019-10-01",
-                "endDate": "2023-05-31",
+                "endDate": "2020-05-31",
                 "items": [
                     "Managed Buenos Aires office.",
                     "Involved in recruiting and retaining people for different teams. Reduced the recruitment process time by 20% by introducing a simple written test to evaluate candidates."
@@ -102,7 +102,7 @@
     },
     {
         "title": "iOS Engineer Sr.",
-        "company": "Tradehelm Inc. (now part of the MajorKey group)",
+        "company": "Tradehelm Inc.",
         "location": "Buenos Aires, Argentina & Chicago, USA",
         "startDate": "2016-03-15",
         "endDate": "2017-06-30",
