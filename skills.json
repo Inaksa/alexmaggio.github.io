@@ -1,0 +1,46 @@
+[
+    {
+        "category": "Programming Languages",
+        "items": [
+            "Objective-C",
+            "Swift",
+            "C++",
+            "C",
+            "Visual Basic",
+            "Javascript",
+            "Apple Script",
+            "Assembler",
+            "Bash",
+            "Haskell"
+        ]
+    },
+    {
+        "category": "Databases",
+        "items": [
+            "Microsoft SQL",
+            "SQLite",
+            "Realm"
+        ]
+    },
+    {
+        "category": "Development Tools",
+        "items": [
+            "Git",
+            "SVN",
+            "Jira",
+            "Cocoapods",
+            "Cartaghe",
+            "Swift Packages"
+        ]
+    },
+    {
+        "category": "Technologies",
+        "items": [
+            "UIKit",
+            "SwiftUI",
+            "JSON",
+            "XML",
+            "REST Api"
+        ]
+    }
+]

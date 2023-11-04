@@ -1,0 +1,183 @@
+[
+    {
+        "title": "iOS Lead Developer",
+        "company": "Blue Trail Software",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2021-02-21",
+        "endDate": "2023-05-31",
+        "items": [
+            "Maintained and developed new features for an IoT related app.",
+            "Created a foundation project to use in one client library of apps. The focus of this was to be able to reuse functionalities we already implemented.",
+            "Created an app to detect driver drowsiness using ARKit and a proof of concept using MLKit."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Developer",
+        "company": "Phinx Labs",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2020-08",
+        "endDate": "2021-02",
+        "items": [
+            "Worked on the migration from React Native to Native of one client's crypto currency app."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Developer, iOS Lead Engineer, Manager",
+        "company": "Blue Trail Software",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2017-12-01",
+        "endDate": "2020-05",
+        "items": [],
+        "subentries": [
+            {
+                "title": "Manager",
+                "company": "Blue Trail Software",
+                "location": "Buenos Aires, Argentina",
+                "startDate": "2019-10-01",
+                "endDate": "2023-05-31",
+                "items": [
+                    "Managed Buenos Aires office.",
+                    "Involved in recruiting and retaining people for different teams. Reduced the recruitment process time by 20% by introducing a simple written test to evaluate candidates."
+                ],
+                "subentries": [],
+                "isMobileRelated": true
+            },
+            {
+                "title": "iOS Lead Engineer",
+                "company": "Blue Trail Software",
+                "location": "Buenos Aires, Argentina",
+                "startDate": "2019-07-01",
+                "endDate": "2023-05-31",
+                "items": [
+                    "Maintained and developed new features for a workforce management app. Managed a team of 4. We refactored the old codebase allowing near 50% increase in the implementation of experimental features",
+                    "Maintained and developed new features for a white label banking app. Originally the project was designed for 5 credit unions, but the reception by users was so good that it was used in near 100 credit unions."
+                ],
+                "subentries": [],
+                "isMobileRelated": true
+            },
+            {
+                "title": "iOS Engineer Sr.",
+                "company": "Blue Trail Software",
+                "location": "Buenos Aires, Argentina",
+                "startDate": "2017-12-01",
+                "endDate": "2019-06-30",
+                "items": [
+                    "Development for several clients, industries ranging from financial to health and fitness.",
+                    "Worked on the proposal and formalization of processes related to CI and the creation of a components library, to be used in all future projects."
+                ],
+                "subentries": [],
+                "isMobileRelated": true
+            }
+        ],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "Globant",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2017-08-01",
+        "endDate": "2017-11-30",
+        "items": [
+            "Developed the native version of the previous hybrid app related to the real estate sector."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "Overactive Inc. (now part of the Perficient Group)",
+        "location": "Buenos Aires, Argentina & Montevideo, Uruguay",
+        "startDate": "2016-07-04",
+        "endDate": "2017-07-31",
+        "items": [
+            "Developed an app for a health insurance company based on Puerto Rico, whose main audience were senior citizens and people  with disabilities, the app introduced me to the world of accessibility",
+            "Rewrote an app for a payment processor in Central America that allowed the user to connect a card reader to the device and provide new payment methods for services."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "Tradehelm Inc. (now part of the MajorKey group)",
+        "location": "Buenos Aires, Argentina & Chicago, USA",
+        "startDate": "2016-03-15",
+        "endDate": "2017-06-30",
+        "items": [
+            "Maintenance of the main product for a client in US' financial sector.",
+            "Developed a VR application using Unity3D for an expo."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "VMBC Labs",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2014-03-01",
+        "endDate": "2016-03-10",
+        "items": [
+            "Implementation of new features for different apps.",
+            "Design and implementation of prototypes for new functionalities."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "Etermax",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2012-09-08",
+        "endDate": "2014-02-28",
+        "items": [
+            "Development of games using Objective-C.",
+            "Developed with a teammate an internal tool to automate the translation of the games. The tool was written in C#"
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "iOS Engineer Sr.",
+        "company": "SGN (Engenus, now JAM CITY!)",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2014-03-01",
+        "endDate": "2016-03-10",
+        "items": [
+            "Game development using C++ and Objective-C.",
+            "Used Unity3D and Cocos2D (when using Objective-C), and a propieraty engine based on Cocos2DX when dealing with C++."
+        ],
+        "subentries": [],
+        "isMobileRelated": true
+    },
+    {
+        "title": "Software Engineer Sr.",
+        "company": "Band of Coders",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2010-05-01",
+        "endDate": "2011-12-15",
+        "items": [
+            "Development using C# and Unity3D.",
+            "Game development."
+        ],
+        "subentries": [],
+        "isMobileRelated": false
+    },
+    {
+        "title": "Software Developer Junior - Software Developer SSR.",
+        "company": "Appliware (Electrodinámica SA)",
+        "location": "Buenos Aires, Argentina",
+        "startDate": "2006-02-01",
+        "endDate": "2010-04-01",
+        "items": [
+            "Development using Visual Basic, VBA and C++.",
+            "Developed a document organization system.",
+            "Developed a tool enabling business analysts to create full systems without programming skills.",
+            "Designed and implemented a plugin module to notify users about status of automated installations."
+        ],
+        "subentries": [],
+        "isMobileRelated": false
+    }
+]
