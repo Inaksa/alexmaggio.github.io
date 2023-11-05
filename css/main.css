@@ -25,6 +25,7 @@
  * http://www.apache.org/licenses/LICENSE-2.0
 
  main-color: #37638c
+ alternate-color: #58aaf7;
  */
 .bootstrap-switch {
   display: inline-block;
@@ -486,7 +487,7 @@
   background-color: #37638c; }
 
 .slider.slider-primary.noUi-target {
-  background-color: rgba(55, 140, 63, 0.4); }
+  background-color: rgba(55, 63, 140, 0.4); }
 
 .slider.slider-primary .noUi-handle {
   background-color: #37638c; }
@@ -1262,7 +1263,7 @@
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #58aaf7;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -2778,8 +2779,7 @@ body {
     outline: 0; }
 
 img {
-  max-width: 100%;
-  border-radius: 1px; }
+  max-width: 100%; }
 
 .img-raised {
   box-shadow: 0px 10px 25px 0px rgba(0, 0, 0, 0.3); }
@@ -5015,7 +5015,6 @@ figure img {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  
 }
 
 figure figcaption {
