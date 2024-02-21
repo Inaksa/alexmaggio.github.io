@@ -673,7 +673,10 @@ pre code {
     display: flex;
     flex-wrap: wrap;
     margin-right: -15px;
-    margin-left: -15px
+    margin-left: -15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: center;
 }
 
 .no-gutters {
@@ -3253,11 +3256,11 @@ tbody.collapse.show {
 }
 
 .tab-content>.tab-pane {
-    display: none
+    display: none;
 }
 
 .tab-content>.active {
-    display: block
+    display: block;
 }
 
 .navbar {
@@ -6404,7 +6407,7 @@ a.bg-dark:hover {
 }
 
 .mt-5 {
-    margin-top: 3rem!important
+    margin-top: 3rem!important;
 }
 
 .mr-5 {
